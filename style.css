@@ -18,6 +18,9 @@
     width:115px;
     float:left;
 }
+#survive{
+  color:red;
+}
 body {
   background-color: #b8c8d6;
 }
