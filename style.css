@@ -1,8 +1,7 @@
-#MemoLogo {
+#Logo {
     position: relative;
     height: 50px;
-    width: 50px;
-    transform: rotate(180deg);
+    width: 175px;
     margin: 10px;
     float: left;
 }
