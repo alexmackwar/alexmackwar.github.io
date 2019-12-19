@@ -1,7 +1,7 @@
 #Logo {
     position: relative;
-    height: 15px;
-    width: 75px;
+    height: 40px;
+    width: 95px;
     margin: 10px;
     float: left;
 }
@@ -15,7 +15,7 @@
     text-decoration: none;
 }
 #LogoBox {
-    width:80px;
+    width:115px;
     float:left;
 }
 body {
