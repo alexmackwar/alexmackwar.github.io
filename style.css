@@ -15,11 +15,13 @@
     text-decoration: none;
 }
 #LogoBox {
-    width:115px;
+    width:140px;
     float:left;
 }
 #survive{
   background-color:red;
+  float: left;
+  padding-left: 100px;
 }
 body {
   background-color: #b8c8d6;
